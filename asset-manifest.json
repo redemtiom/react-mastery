@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-mastery/static/css/main.adfa5b21.chunk.css",
+    "main.js": "/react-mastery/static/js/main.834f4ae2.chunk.js",
+    "main.js.map": "/react-mastery/static/js/main.834f4ae2.chunk.js.map",
+    "runtime-main.js": "/react-mastery/static/js/runtime-main.170d8dfd.js",
+    "runtime-main.js.map": "/react-mastery/static/js/runtime-main.170d8dfd.js.map",
+    "static/js/2.7d94dc6b.chunk.js": "/react-mastery/static/js/2.7d94dc6b.chunk.js",
+    "static/js/2.7d94dc6b.chunk.js.map": "/react-mastery/static/js/2.7d94dc6b.chunk.js.map",
+    "index.html": "/react-mastery/index.html",
+    "precache-manifest.c957e219e662c71e072d7663e479ec50.js": "/react-mastery/precache-manifest.c957e219e662c71e072d7663e479ec50.js",
+    "service-worker.js": "/react-mastery/service-worker.js",
+    "static/css/main.adfa5b21.chunk.css.map": "/react-mastery/static/css/main.adfa5b21.chunk.css.map",
+    "static/js/2.7d94dc6b.chunk.js.LICENSE.txt": "/react-mastery/static/js/2.7d94dc6b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.170d8dfd.js",
+    "static/js/2.7d94dc6b.chunk.js",
+    "static/css/main.adfa5b21.chunk.css",
+    "static/js/main.834f4ae2.chunk.js"
+  ]
+}
